@@ -1,4 +1,9 @@
 
+body{
+  max-width: 1200px;
+  padding:0% 40% ;
+}
+
 p {
     font-style: italic;
     line-height: 1.618;
